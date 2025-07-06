@@ -24,7 +24,6 @@ Passionate about hacking the cosmos of tech with **React**, **Node.js**, **Pytho
 
 <h4 align="center">
 
-```diff
     +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
     @@       o o                                           @@
     @@       | |                                           @@
@@ -45,7 +44,6 @@ Passionate about hacking the cosmos of tech with **React**, **Node.js**, **Pytho
     @@(___.'     '.___)                                    @@
     +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 
-```
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-sinha/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@toayushofficial) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:toayushofficial@gmail.com) 
